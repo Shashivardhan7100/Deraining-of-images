@@ -1,6 +1,6 @@
 # DGNL-Net
 
-# Single-Image Rain Removal Based on Depth-Guided Non-Local Features
+# Deraining Of Images
 
 ***
 
