@@ -48,34 +48,20 @@ Clone this repository:
    ```
 
 ## Test   
-
-1. Please download our pretrained model at [Google Drive](https://drive.google.com/drive/folders/1BzLzZZFhz2EZyK7HmWPQzZmbxJudS_zJ?usp=sharing).   
-   Put the model `40000.pth` in `./ckpt/DGNLNet/`.                
-   Put the model `60000.pth` in `./ckpt/DGNLNet_fast/`.            
-
-2. Test the DGNL-Net or DGNL-Net-fast:
+1. Test the DGNL-Net :
    ```shell
    python3 infer.py    
-   ```
-   ```shell
-   python3 infer_fast.py    
    ```
 
 ## Train
 
-1. Train the DGNL-Net model:
+2. Train the DGNL-Net model:
    ```shell
    python3 train.py    
-   ```
-   
-2. Train the DGNL-Net-fast model:
-   ```shell
-   python3 train_fast.py
    ```
 
 
 ## Evaluation
 
-Please find the evaluation code at [https://github.com/xw-hu/DAF-Net](https://github.com/xw-hu/DAF-Net).                                       
-Enter the `DAF-Net/examples/` and run `evaluate_raincityscapes.m` in Matlab. 
+Please find the evaluation code at [https://github.com/xw-hu/DAF-Net](https://github.com/xw-hu/DAF-Net).                                 
 
