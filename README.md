@@ -1,10 +1,6 @@
 # DGNL-Net
 
-# Single-Image Real-Time Rain Removal Based on Depth-Guided Non-Local Features
-
-by Xiaowei Hu, Lei Zhu, Tianyu Wang, Chi-Wing Fu, and Pheng-Ann Heng
-
-This implementation is written by Xiaowei Hu at the Chinese University of Hong Kong.
+# Single-Image Rain Removal Based on Depth-Guided Non-Local Features
 
 ***
 
